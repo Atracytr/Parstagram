@@ -5,7 +5,11 @@
       <map>
         <entry key="..\:/CodePath/Parstagram/app/src/main/res/font/billabong.xml" value="0.4171875" />
         <entry key="..\:/CodePath/Parstagram/app/src/main/res/layout/activity_login.xml" value="0.22580645161290322" />
-        <entry key="..\:/CodePath/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.2300469483568075" />
+        <entry key="..\:/CodePath/Parstagram/app/src/main/res/layout/activity_main.xml" value="0.2930253623188406" />
+        <entry key="..\:/CodePath/Parstagram/app/src/main/res/layout/fragment_compose.xml" value="0.18" />
+        <entry key="..\:/CodePath/Parstagram/app/src/main/res/layout/fragment_feed.xml" value="0.38697916666666665" />
+        <entry key="..\:/CodePath/Parstagram/app/src/main/res/layout/item_post.xml" value="0.25" />
+        <entry key="..\:/CodePath/Parstagram/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.22083333333333333" />
         <entry key="..\:/CodePath/Parstagram/app/src/main/res/xml/fileprovider.xml" value="1.0" />
       </map>
     </option>
